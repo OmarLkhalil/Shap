@@ -1,0 +1,92 @@
+[
+  {
+    "title": "سيارة marcedes AMG",
+    "image": "https%3A%2F%2Fwww.mercedes-benz.com.eg%2Fcontent%2Fegypt%2Fen%2Fpassengercars%2Fmodels%2Fcoupe%2Fnew%2Famg-gt%2F_jcr_content%2Froot%2Fresponsivegrid%2Fsimple_stage.component.damq1.3384660473845.jpg",
+    "itemType": "سيارات",
+    "description": "تعد سيارة AMG GT 53 بمثابة نسخة أكثر ليونة وتفاخرًا بفكرة",
+    "id": "32324",
+    "price": "400",
+    "inStock": true
+  },
+  {
+    "title": "سيارة Toyota Camry Hybrid",
+    "image": "https%3A%2F%2Fdi-uploads-pod43.dealerinspire.com%2Fzeiglertoyotaofracine%2Fuploads%2F2023%2F09%2F2024-Camry-Hybrid.png",
+    "itemType": "سيارات",
+    "description": "سيارة Toyota Camry Hybrid تجمع بين الفخامة والكفاءة في استهلاك الوقود مع تصميم داخلي راقي وتقنيات متقدمة",
+    "id": "001",
+    "price": "250",
+    "inStock": true
+  },
+  {
+    "title": "سيارة Ford Mustang Mach-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg",
+    "itemType": "سيارات",
+    "description": "Ford Mustang Mach-E السيارة الكهربائية التي تحمل روح Mustang في تصميم SUV مبتكر وجذاب",
+    "id": "002",
+    "price": "300",
+    "inStock": true
+  },
+  {
+    "title": "سيارة BMW i8",
+    "image": "https://media.ed.edmunds-media.com/toyota/camry-hybrid/2021/oem/2021_toyota_camry-hybrid_sedan_xse_fq_oem_1_1280.jpg",
+    "itemType": "سيارات",
+    "description": "BMW i8 هي سيارة هجينة رياضية تجمع بين الأداء الاستثنائي والتصميم الفريد والكفاءة في استهلاك الطاقة",
+    "id": "003",
+    "price": "850",
+    "inStock": false
+  },
+  {
+    "title": "فول سوداني",
+    "image": "https://mf.b37mrtl.ru/media/pics/2022.08/original/630e48cf4c59b74fc229aca2.jpg",
+    "itemType": "حبوب",
+    "description": "الفول السوداني مصدر غني بالبروتين والدهون الصحية مثالي لوجبة خفيفة أو إضافة للوجبات",
+    "id": "004",
+    "price": "20",
+    "inStock": true
+  },
+  {
+    "title": "فاصوليا بيضاء",
+    "image": "https://assets.matjrah.store/images/1325/image/cache/catalog/Products/BATCH%208/1647578791-White%20Beans-550x550w.jpg",
+    "itemType": "حبوب",
+    "description": "الفاصوليا البيضاء مصدر غني بالألياف والبروتين تعتبر أساسية في العديد من الأطباق الشعبية",
+    "id": "005",
+    "price": "15",
+    "inStock": true
+  },
+  {
+    "title": "عدس أحمر",
+    "image": "https://static.sayidaty.net/styles/900_scale/public/2018/12/13/4658301-327046331.jpg.webp",
+    "itemType": "حبوب",
+    "description": "العدس الأحمر سهل الطهي ومتعدد الاستخدامات يعد من العناصر الأساسية في المطبخ الشرقي",
+    "id": "006",
+    "price": "10",
+    "inStock": true
+  },
+  {
+    "title": "سماعات AirPods Pro",
+    "image": "https://m.media-amazon.com/images/I/616rgsux9KL._AC_UF894,1000_QL80_.jpg",
+    "itemType": "أجهزة إلكترونية",
+    "description": "AirPods Pro توفر تجربة صوتية استثنائية مع خاصية إلغاء الضوضاء النشطة لتجربة استماع فائقة الجودة",
+    "id": "007",
+    "price": "200",
+    "inStock": true
+  },
+  {
+    "title": "كاميرا Canon EOS R5",
+    "image": "https://www.canon.co.uk/media/Canon-EOS-R5-1_tcm14-1876753.jpg",
+    "itemType": "أجهزة إلكترونية",
+    "description": "Canon EOS R5 كاميرا بدون مرآة توفر جودة صورة استثنائية وتسجيل فيديو بدقة 8K",
+    "id": "008",
+    "price": "4500",
+    "inStock": true
+  },
+  {
+    "title": "لابتوب Dell XPS 15",
+    "image": "https://www.dell.com/sites/imagecontent/products/publishingimages/xps/15-9500/laptop-xps-15-9500-campaign-hero-504x350-ng.psd",
+    "itemType": "أجهزة إلكترونية",
+    "description": "Dell XPS 15 يقدم أداء استثنائي مع شاشة عرض InfinityEdge ومعالجات Intel Core من الجيل العاشر",
+    "id": "009",
+    "price": "1500",
+    "inStock": true
+  }
+]

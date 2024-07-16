@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935962473910",
+    "project_id": "elshorou2",
+    "storage_bucket": "elshorou2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935962473910:android:e0a568456810037d05fd17",
+        "android_client_info": {
+          "package_name": "com.mobilebreakero.shap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFP34L05jJQ1EQWJwlIxCOqKW1YWbAzxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
